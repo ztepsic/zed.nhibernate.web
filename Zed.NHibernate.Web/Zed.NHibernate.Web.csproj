@@ -54,9 +54,9 @@
     <Reference Include="Zed">
       <HintPath>..\packages\Zed.1.0.0.9\lib\net451\Zed.dll</HintPath>
     </Reference>
-    <Reference Include="Zed.NHibernate, Version=1.0.0.6, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Zed.NHibernate, Version=1.0.0.7, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Zed.NHibernate.1.0.0.6\lib\net451\Zed.NHibernate.dll</HintPath>
+      <HintPath>..\packages\Zed.NHibernate.1.0.0.7\lib\net451\Zed.NHibernate.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
